@@ -1,0 +1,26 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+*.class
+
+#hibernate
+hibernate.cfg.xml
+/bin/
+
+#CodePen
+license.txt
+README.txt
